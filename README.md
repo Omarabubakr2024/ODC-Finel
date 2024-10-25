@@ -65,7 +65,8 @@ pipeline {
         }
     }
 }
-```
+
+   ![alt text](Capture2.PNG)
 ## Part 2: Deploy the Node.js App to Kubernetes using ArgoCD
 
 ### Prerequisites
@@ -106,8 +107,5 @@ pipeline {
              image: omarbanna/orange
              ports:
                - containerPort: 3000
-   ```
-<<<<<<< HEAD
-=======
-Capture.PNG
->>>>>>> 23a3820d2992d97329cc15f3cca55a9da2897b8c
+   
+   ![alt text](Capture-1.PNG)
