@@ -66,7 +66,7 @@ pipeline {
     }
 }
 ```
-![alt text](Capture2.PNG)
+c:\Users\omara\Desktop\Capture2.PNG
 
 ## Part 2: Deploy the Node.js App to Kubernetes using ArgoCD
 
@@ -109,4 +109,4 @@ pipeline {
              ports:
                - containerPort: 3000
    ```
-![alt text](Capture.PNG)
+c:\Users\omara\Desktop\Capture.PNG
