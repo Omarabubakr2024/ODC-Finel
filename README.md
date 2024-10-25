@@ -77,7 +77,7 @@ pipeline {
    Add the repository link to the ArgoCD Settings > Repositories.
 
 2. **Create Automation Application:**  
-   Create an application named `mac-cd` with automatic sync enabled.
+   Create an application named `finel` with automatic sync enabled.
 
 3. **Deployment Configuration:**  
    Create a `deployment.yaml` file with the following configuration:
@@ -107,3 +107,7 @@ pipeline {
              ports:
                - containerPort: 3000
    ```
+<<<<<<< HEAD
+=======
+Capture.PNG
+>>>>>>> 23a3820d2992d97329cc15f3cca55a9da2897b8c
