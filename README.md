@@ -66,7 +66,6 @@ pipeline {
     }
 }
 ```
-Capture2.PNG
 ## Part 2: Deploy the Node.js App to Kubernetes using ArgoCD
 
 ### Prerequisites
@@ -108,4 +107,3 @@ Capture2.PNG
              ports:
                - containerPort: 3000
    ```
-Capture.PNG
