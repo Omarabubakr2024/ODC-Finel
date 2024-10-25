@@ -78,7 +78,7 @@ Capture2.PNG
    Add the repository link to the ArgoCD Settings > Repositories.
 
 2. **Create Automation Application:**  
-   Create an application named `mac-cd` with automatic sync enabled.
+   Create an application named `finel` with automatic sync enabled.
 
 3. **Deployment Configuration:**  
    Create a `deployment.yaml` file with the following configuration:
